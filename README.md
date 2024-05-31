@@ -1,22 +1,31 @@
 # OIBSIP_Landing-page-
 Overview This project is a clone of the H&amp;M landing page, developed using HTML and CSS. The goal was to replicate the look and feel of the original H&amp;M website while ensuring a clean, responsive, and user-friendly design.
 
-Features
+#Features
+
 Responsive Design: The landing page is fully responsive and adapts to various screen sizes, ensuring an optimal user experience on desktops, tablets, and mobile devices.
+
 Clean and Modern Layout: The design focuses on simplicity and modern aesthetics, closely mirroring the original H&M landing page.
+
 Interactive Elements: Includes interactive features such as navigation menus, hover effects, and clickable buttons to enhance user engagement.
+
 Optimized Performance: Ensures fast loading times by using efficient CSS and minimizing file sizes.
+
 SEO Best Practices: Built with SEO in mind, using semantic HTML tags, meta descriptions, and alt text for images.
-Technologies Used
+
+#Technologies Used 
+
 HTML5: For structuring the content and layout of the landing page.
 CSS3: For styling the page, including layout design, responsive behavior, and interactive elements.
 Installation
 To view the project locally, follow these steps:
 
-Clone the repository:
+#Clone the repository:
 bash
+
 Copy code
 git clone https://github.com/krupadudhat/OIBSIP_Landing-page--clone.git
+
 Navigate to the project directory:
 bash
 Copy code
