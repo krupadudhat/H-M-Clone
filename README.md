@@ -15,8 +15,8 @@ SEO Best Practices: Built with SEO in mind, using semantic HTML tags, meta descr
 
 # Technologies Used 
 
-# HTML5: For structuring the content and layout of the landing page.
-# CSS3: For styling the page, including layout design, responsive behavior, and interactive elements.
+ HTML5: For structuring the content and layout of the landing page.
+CSS3: For styling the page, including layout design, responsive behavior, and interactive elements.
 # Installation
 To view the project locally, follow these steps:
 
